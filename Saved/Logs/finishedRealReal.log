@@ -1,0 +1,1658 @@
+﻿Log file open, 12/18/19 21:21:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: finishedRealReal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.157993
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.19-05.21.21:363][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.19-05.21.21:363][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.19-05.21.21:364][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.19-05.21.21:365][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.19-05.21.21:365][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.19-05.21.21:365][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:365][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-05.21.21:368][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-05.21.21:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-05.21.21:370][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:371][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-05.21.21:371][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-05.21.21:371][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-05.21.21:371][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.19-05.21.21:376][  0]LogHAL: Display: Platform has ~ 8 GB [8467406848 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.19-05.21.21:376][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.19-05.21.21:376][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:376][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-05.21.21:376][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-05.21.21:376][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:376][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-05.21.21:377][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-05.21.21:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.19-05.21.21:379][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Config/Windows/Engine.ini]
+[2019.12.19-05.21.21:379][  0]LogInit: Computer: LAPTOP-N5A2Q0DU
+[2019.12.19-05.21.21:379][  0]LogInit: User: noodl
+[2019.12.19-05.21.21:379][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.19-05.21.21:379][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.19-05.21.21:380][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.19-05.21.21:380][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.19-05.21.21:380][  0]LogMemory: Process Physical Memory: 99.99 MB used, 99.99 MB peak
+[2019.12.19-05.21.21:380][  0]LogMemory: Process Virtual Memory: 99.01 MB used, 99.01 MB peak
+[2019.12.19-05.21.21:380][  0]LogMemory: Physical Memory: 4812.02 MB used,  3263.13 MB free, 8075.15 MB total
+[2019.12.19-05.21.21:380][  0]LogMemory: Virtual Memory: 4666.75 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.19-05.21.21:383][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.19-05.21.21:407][  0]LogInit: Using OS detected language (en-US).
+[2019.12.19-05.21.21:407][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.19-05.21.21:408][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.19-05.21.21:697][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.19-05.21.21:739][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.19-05.21.21:739][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.19-05.21.22:096][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.19-05.21.22:096][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.19-05.21.22:160][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.12.19-05.21.22:160][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.12.19-05.21.22:165][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.19-05.21.22:165][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.19-05.21.22:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.19-05.21.22:179][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.19-05.21.22:179][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.19-05.21.22:179][  0]LogWindows: EnumDisplayDevices:
+[2019.12.19-05.21.22:180][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.12.19-05.21.22:180][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.19-05.21.22:181][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.19-05.21.22:182][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.19-05.21.22:182][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2019.12.19-05.21.22:182][  0]LogD3D11RHI:   Driver Version: 24.20.100.6286 (internal:24.20.100.6286, unified:24.20.100.6286)
+[2019.12.19-05.21.22:182][  0]LogD3D11RHI:      Driver Date: 8-15-2018
+[2019.12.19-05.21.22:182][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2019.12.19-05.21.22:239][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.19-05.21.22:248][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.12.19-05.21.22:987][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.19-05.21.23:008][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.19-05.21.23:030][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.19-05.21.23:047][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.19-05.21.23:069][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.19-05.21.23:090][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.19-05.21.23:112][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.19-05.21.23:133][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.19-05.21.23:143][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.19-05.21.23:219][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.19-05.21.23:220][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.19-05.21.23:224][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.19-05.21.23:264][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.19-05.21.23:264][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.19-05.21.23:297][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.19-05.21.23:297][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.19-05.21.23:314][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.19-05.21.23:331][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.19-05.21.23:347][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.19-05.21.23:365][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.19-05.21.23:415][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.19-05.21.23:415][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.19-05.21.23:415][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.19-05.21.23:437][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.19-05.21.23:568][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/noodl/Documents/Unreal Projects/finishedRealReal/Intermediate/Shaders/WorkingDirectory/17496/).
+[2019.12.19-05.21.23:569][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/noodl/AppData/Local/Temp/UnrealShaderWorkingDir/BD406C8D4D3FBFCDF448FBA58C4764ED/'.
+[2019.12.19-05.21.23:575][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.19-05.21.23:575][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.19-05.21.23:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.19-05.21.24:359][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/noodl/Documents/Unreal Projects/finishedRealReal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/noodl/Documents/Unreal Projects/finishedRealReal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-05.21.24:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.19-05.21.24:428][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.19-05.21.24:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-05.21.24:428][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.19-05.21.24:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/noodl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.19-05.21.24:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.19-05.21.24:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.19-05.21.24:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.19-05.21.24:454][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.19-05.21.24:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.19-05.21.24:511][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2019.12.19-05.21.24:772][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-05.21.24:920][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.19-05.21.24:920][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.19-05.21.24:920][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.19-05.21.24:920][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.19-05.21.24:920][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.19-05.21.24:930][  0]LogNetVersion: finishedRealReal 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 703680597)
+[2019.12.19-05.21.25:361][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051487 seconds
+[2019.12.19-05.21.25:370][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.19-05.21.25:370][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.19-05.21.25:370][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.19-05.21.26:223][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.19-05.21.26:266][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.19-05.21.26:324][  0]SourceControl: Source control is disabled
+[2019.12.19-05.21.26:324][  0]SourceControl: Source control is disabled
+[2019.12.19-05.21.26:326][  0]SourceControl: Source control is disabled
+[2019.12.19-05.21.26:327][  0]SourceControl: Source control is disabled
+[2019.12.19-05.21.26:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.19-05.21.26:535][  0]LogOcInput: OculusInput pre-init called
+[2019.12.19-05.21.26:543][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.19-05.21.26:543][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.19-05.21.26:612][  0]LogEngine: Initializing Engine...
+[2019.12.19-05.21.26:613][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.19-05.21.26:613][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.19-05.21.26:837][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.19-05.21.26:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.19-05.21.26:873][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-05.21.27:161][  0]LogInit: FAudioDevice initialized.
+[2019.12.19-05.21.27:161][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.19-05.21.27:396][  0]LogDerivedDataCache: Saved boot cache 0.23s 73MB C:/Users/noodl/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-05.21.27:410][  0]LogInit: Texture streaming: Enabled
+[2019.12.19-05.21.27:451][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.19-05.21.27:483][  0]LogInit: Transaction tracking system initialized
+[2019.12.19-05.21.27:526][  0]BlueprintLog: New page: Editor Load
+[2019.12.19-05.21.27:625][  0]LocalizationService: Localization service is disabled
+[2019.12.19-05.21.27:889][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Content/' took 0.00s
+[2019.12.19-05.21.27:889][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.19-05.21.27:889][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.19-05.21.28:129][  0]SourceControl: Source control is disabled
+[2019.12.19-05.21.28:129][  0]Cmd: MAP LOAD FILE="../../../../../../Users/noodl/Documents/Unreal Projects/finishedRealReal/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.19-05.21.28:129][  0]LightingResults: New page: Lighting Build
+[2019.12.19-05.21.28:133][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-05.21.28:133][  0]MapCheck: New page: Map Check
+[2019.12.19-05.21.28:133][  0]LightingResults: New page: Lighting Build
+[2019.12.19-05.21.28:158][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.19-05.21.28:907][  0]LogAIModule: Creating AISystem for world Map
+[2019.12.19-05.21.28:912][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.19-05.21.28:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.12.19-05.21.28:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.19-05.21.28:940][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2019.12.19-05.21.28:942][  0]LogFileHelpers: Loading map 'Map' took 0.812
+[2019.12.19-05.21.29:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.21.29:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.21.29:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.21.29:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.21.29:111][  0]LogCollectionManager: Loaded 0 collections in 0.002231 seconds
+[2019.12.19-05.21.29:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Saved/Collections/' took 0.00s
+[2019.12.19-05.21.29:118][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Content/Developers/noodl/Collections/' took 0.00s
+[2019.12.19-05.21.29:118][  0]LogFileCache: Scanning file cache for directory 'C:/Users/noodl/Documents/Unreal Projects/finishedRealReal/Content/Collections/' took 0.00s
+[2019.12.19-05.21.29:118][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.19-05.21.29:127][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2863 classes and 680 folders.
+[2019.12.19-05.21.29:134][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.19-05.21.29:175][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.19-05.21.29:188][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.19-05.21.29:190][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.19-05.21.29:198][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.19-05.21.29:266][  0]LogRenderer: Reallocating scene render targets to support 976x464 Format 10 NumSamples 1 (Frame:1).
+[2019.12.19-05.21.29:638][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-05.21.29:735][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.19-05.21.29:735][  0]LogLoad: (Engine Initialization) Total time: 10.71 seconds
+[2019.12.19-05.21.29:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.19-05.21.29:785][  0]LogAssetRegistry: Asset discovery search completed in 5.2754 seconds
+[2019.12.19-05.21.29:789][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.19-05.21.29:789][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.12.19-05.21.29:790][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.19-05.21.33:741][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-05.21.33:898][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-05.21.33:909][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.19-05.21.33:909][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-05.21.33:909][120]PIE: New page: PIE session: Map (Dec 18, 2019, 1:21:33 PM)
+[2019.12.19-05.21.33:910][120]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.19-05.21.33:911][120]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2019.12.19-05.21.33:915][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003478s)
+[2019.12.19-05.21.33:917][120]LogAIModule: Creating AISystem for world Map
+[2019.12.19-05.21.33:917][120]LogPlayLevel: PIE: World Init took: (0.001814s)
+[2019.12.19-05.21.33:917][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.005676s)
+[2019.12.19-05.21.33:948][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.12.19-05.21.33:960][120]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-05.21.34:060][120]LogInit: FAudioDevice initialized.
+[2019.12.19-05.21.34:068][120]LogLoad: Game class is 'MainGameMode_C'
+[2019.12.19-05.21.34:070][120]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.12.18-21.21.34
+[2019.12.19-05.21.34:070][120]LogWorld: Bringing up level for play took: 0.000513
+[2019.12.19-05.21.34:070][120]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.19-05.21.34:078][120]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.19-05.21.34:081][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_3
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:081][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_0
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:082][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_1
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:084][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_6
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:084][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_7
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:084][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_3
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:085][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_4
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:085][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_5
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:087][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_9
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:087][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_10
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:087][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_6
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:088][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_7
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:088][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_8
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:090][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_13
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:090][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_15
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:091][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_9
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:091][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_10
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:091][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_11
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:106][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_19
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:106][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_12
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:106][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_13
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:114][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_20
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:115][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_22
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:115][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_15
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:115][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_16
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:121][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_26
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:121][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_27
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:121][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_18
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:121][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_19
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:122][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_20
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:124][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_28
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:124][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_30
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:124][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_31
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:124][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_21
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:124][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_22
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:125][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_23
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:130][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_32
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:130][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_33
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:130][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_34
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:131][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_35
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:131][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_24
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:131][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_25
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:131][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_26
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:136][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_36
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:136][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_37
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:137][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_39
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:137][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_27
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:137][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_28
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:137][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_29
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:142][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_40
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:142][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_42
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.34:143][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_30
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:143][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_31
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:143][120]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_32
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.34:147][120]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.742
+[2019.12.19-05.21.34:148][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.19-05.21.36:808][192]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.36:904][194]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_46
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.36:907][194]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_33
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.36:909][194]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_34
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.36:912][194]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_35
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.37:358][207]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.37:450][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_48
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.37:451][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_49
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.37:453][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_51
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.37:455][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_36
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.37:456][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_37
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.37:457][209]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_38
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.37:527][211]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_52
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.37:529][211]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_54
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.37:530][211]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_39
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.37:531][211]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_40
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.38:141][228]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.38:920][249]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.39:566][268]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.40:293][289]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_2
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.40:295][289]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_5
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.40:363][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_56
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.40:364][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_57
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.40:364][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_58
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.40:365][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_42
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.40:366][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_43
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.40:367][291]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_44
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.41:359][321]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.41:439][323]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_60
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.41:440][323]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_62
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.41:442][323]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_45
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.41:443][323]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_46
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.41:444][323]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_47
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:579][357]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_64
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.42:581][357]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_66
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.42:584][357]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_48
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:585][357]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_49
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:586][357]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_50
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:656][359]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_68
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.42:658][359]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_51
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:658][359]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_52
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.42:659][359]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_53
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:108][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_73
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:109][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_74
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:109][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_75
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:110][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_54
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:111][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_55
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:112][372]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_56
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:646][388]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.43:730][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_7
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:731][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_8
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:732][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_10
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:733][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_11
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:734][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_12
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:735][390]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_13
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.43:799][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_76
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:800][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_77
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:800][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_78
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:800][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_79
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.43:801][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_57
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:802][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_58
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.43:803][392]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_59
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.44:195][404]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.44:820][422]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.44:903][424]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_81
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.44:905][424]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_60
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.44:905][424]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_61
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.44:905][424]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_62
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.44:975][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_84
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.44:975][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_85
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.44:975][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_86
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.44:976][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_87
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.44:977][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_63
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.44:978][426]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_64
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.46:449][470]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.46:532][472]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_89
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.46:533][472]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_91
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.46:533][472]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_66
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.46:534][472]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_67
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.46:535][472]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_68
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.47:089][489]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.47:174][491]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_14
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.47:176][491]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_16
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.47:177][491]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_17
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.47:178][491]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_19
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.47:179][491]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_20
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.47:240][493]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_92
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.47:242][493]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_94
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.47:242][493]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_69
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.47:243][493]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_71
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.47:797][510]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.47:878][512]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_96
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.47:880][512]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_99
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.47:881][512]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_72
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.47:882][512]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_74
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.48:463][530]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.49:095][549]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.50:933][604]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.51:086][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_100
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.51:087][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_102
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.51:088][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_103
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.51:089][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_75
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.51:089][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_76
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.51:090][608]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_77
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.51:715][627]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.52:181][640]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_21
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.52:183][640]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_23
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.52:184][640]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_24
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.52:185][640]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_26
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.53:302][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-05.21.54:506][708]LogNet: Browse: /Game/Map
+[2019.12.19-05.21.54:507][708]LogLoad: LoadMap: /Game/Map
+[2019.12.19-05.21.54:507][708]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2019.12.19-05.21.54:510][708]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-05.21.54:603][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.19-05.21.54:604][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2019.12.19-05.21.54:607][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002661s)
+[2019.12.19-05.21.54:608][708]LogAIModule: Creating AISystem for world Map
+[2019.12.19-05.21.54:608][708]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2019.12.19-05.21.54:609][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004162s)
+[2019.12.19-05.21.54:609][708]LogLoad: Game class is 'MainGameMode_C'
+[2019.12.19-05.21.54:610][708]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2019.12.18-21.21.54
+[2019.12.19-05.21.54:610][708]LogWorld: Bringing up level for play took: 0.000575
+[2019.12.19-05.21.54:615][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_1
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:615][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_3
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:615][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_0
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:616][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_1
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:616][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_2
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:618][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_5
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:619][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_6
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:619][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_7
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:619][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_3
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:619][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_4
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:619][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_5
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:622][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_6
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:623][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_7
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:623][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_8
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:625][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_12
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:625][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_13
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:625][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_14
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:626][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_15
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:626][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_9
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:626][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_10
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:626][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_11
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:631][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_16
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:631][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_17
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:631][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_18
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:632][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_12
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:632][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_13
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:632][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_14
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:641][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_2
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:642][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_5
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:642][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_6
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:649][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_21
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:649][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_22
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:650][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_15
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:650][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_16
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:650][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_17
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:656][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_8
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:656][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_9
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:656][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_10
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:656][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_11
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:657][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_13
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:662][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_25
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:662][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_26
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:663][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_18
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:663][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_19
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:663][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_20
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:665][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_28
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:665][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_29
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:665][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_30
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:666][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_31
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:666][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_21
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:666][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_22
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:672][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_16
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:672][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	lillypad_C /Game/UEDPIE_0_Map.Map:PersistentLevel.lillypad_C_19
+	Function /Game/Blueprints/lillypad.lillypad_C:ExecuteUbergraph_lillypad:00FA
+[2019.12.19-05.21.54:679][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_34
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:680][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_24
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:680][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_25
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:680][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_26
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:682][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_36
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:682][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_38
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:682][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_39
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.54:683][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_28
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:683][708]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_29
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.54:684][708]LogLoad: Took 0.177722 seconds to LoadMap(/Game/UEDPIE_0_Map)
+[2019.12.19-05.21.58:567][809]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.21.58:647][811]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_40
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.58:651][811]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_30
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.58:651][811]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_31
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.58:653][811]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_32
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:146][825]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_47
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.59:147][825]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_33
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:148][825]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_34
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:148][825]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_35
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:180][826]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_48
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.59:183][826]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_50
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.59:184][826]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Decor_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Decor_C_51
+	Function /Game/Blueprints/Decor.Decor_C:ExecuteUbergraph_Decor:01FD
+[2019.12.19-05.21.59:185][826]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_36
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:186][826]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	coin_C /Game/UEDPIE_0_Map.Map:PersistentLevel.coin_C_38
+	Function /Game/Blueprints/coin.coin_C:ExecuteUbergraph_coin:00CD
+[2019.12.19-05.21.59:563][837]LogScript: Warning: Switch statement failed to match case for index property Temp_int_Variable
+	Player_C /Game/UEDPIE_0_Map.Map:PersistentLevel.Player_C_0
+	Function /Game/Blueprints/Player.Player_C:ExecuteUbergraph_Player:04F6
+[2019.12.19-05.22.03:862][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.19-05.22.03:863][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.22.03:863][962]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2019.12.19-05.22.03:865][962]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-05.22.03:945][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-05.22.03:946][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Map.Map_C' with ClassGeneratedBy '/Game/Map.Map:PersistentLevel.Map'
+[2019.12.19-05.22.04:010][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-05.22.04:019][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.12.19-05.22.04:029][963]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.19-05.22.05:260][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-05.22.05:421][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.12.19-05.22.05:521][  2]LogSlate: Window 'finishedRealReal - Unreal Editor' being destroyed
+[2019.12.19-05.22.05:524][  2]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.19-05.22.05:530][  2]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.19-05.22.05:663][  3]Cmd: QUIT_EDITOR
+[2019.12.19-05.22.05:973][  3]LogExit: Preparing to exit.
+[2019.12.19-05.22.06:336][  3]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.19-05.22.06:352][  3]LogExit: Editor shut down
+[2019.12.19-05.22.06:353][  3]LogExit: Transaction tracking system shut down
+[2019.12.19-05.22.06:609][  3]LogExit: Object subsystem successfully closed.
+[2019.12.19-05.22.06:636][  3]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.19-05.22.06:678][  3]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (670)
+[2019.12.19-05.22.06:678][  3]LogModuleManager: Shutting down and abandoning module Voice (668)
+[2019.12.19-05.22.06:678][  3]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (666)
+[2019.12.19-05.22.06:678][  3]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.19-05.22.06:679][  3]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.19-05.22.06:680][  3]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.19-05.22.06:681][  3]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.19-05.22.07:699][  3]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.19-05.22.07:700][  3]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.19-05.22.07:701][  3]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.19-05.22.07:745][  3]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.19-05.22.07:745][  3]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.19-05.22.07:745][  3]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.19-05.22.07:745][  3]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.19-05.22.07:746][  3]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.19-05.22.07:752][  3]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.19-05.22.07:752][  3]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.19-05.22.07:752][  3]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.19-05.22.07:752][  3]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.19-05.22.07:753][  3]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.19-05.22.07:753][  3]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.19-05.22.07:753][  3]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.19-05.22.07:753][  3]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.19-05.22.07:754][  3]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.19-05.22.07:755][  3]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.19-05.22.07:766][  3]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.19-05.22.07:892][  3]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.19-05.22.07:893][  3]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.19-05.22.07:894][  3]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.19-05.22.07:895][  3]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.19-05.22.07:896][  3]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.19-05.22.07:896][  3]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.19-05.22.07:896][  3]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.19-05.22.07:896][  3]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.19-05.22.07:997][  3]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.19-05.22.08:098][  3]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.19-05.22.08:098][  3]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.19-05.22.08:099][  3]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.19-05.22.08:100][  3]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.19-05.22.08:100][  3]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.19-05.22.08:100][  3]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.19-05.22.08:100][  3]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.19-05.22.08:101][  3]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.19-05.22.08:103][  3]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.19-05.22.08:103][  3]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.19-05.22.08:103][  3]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.19-05.22.08:103][  3]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.19-05.22.08:103][  3]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.19-05.22.08:106][  3]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.19-05.22.08:106][  3]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.19-05.22.08:107][  3]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.19-05.22.08:108][  3]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.19-05.22.08:108][  3]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.19-05.22.08:108][  3]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.19-05.22.08:108][  3]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.19-05.22.08:110][  3]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.19-05.22.08:487][  3]LogDerivedDataCache: Shutdown
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.19-05.22.08:487][  3]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.19-05.22.08:488][  3]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.19-05.22.08:492][  3]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.19-05.22.08:492][  3]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.19-05.22.08:492][  3]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.19-05.22.08:492][  3]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.19-05.22.08:492][  3]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.19-05.22.08:494][  3]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.19-05.22.08:494][  3]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.19-05.22.08:496][  3]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.19-05.22.08:497][  3]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.19-05.22.08:512][  3]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.19-05.22.08:513][  3]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.19-05.22.08:513][  3]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.19-05.22.08:514][  3]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.19-05.22.08:514][  3]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.19-05.22.08:552][  3]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.19-05.22.08:553][  3]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.19-05.22.08:553][  3]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBF113E7-4E30-55F4-C791-EDB7B0EDAE5A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=45ac0185434d7c66e13508bce47245c6%7Cd509dc3f621e4ffb8848e4fe07b1b1c5%7Cbec57d13-dde9-42fa-9285-42a4dd6cf1b6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.19-05.22.08:575][  3]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.19-05.22.08:579][  3]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.19-05.22.08:583][  3]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.19-05.22.08:585][  3]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.19-05.22.08:585][  3]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.19-05.22.08:586][  3]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.19-05.22.08:587][  3]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.19-05.22.08:587][  3]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.19-05.22.08:587][  3]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.19-05.22.08:587][  3]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.19-05.22.08:589][  3]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.19-05.22.08:589][  3]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.19-05.22.08:589][  3]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.19-05.22.08:589][  3]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.19-05.22.08:590][  3]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.19-05.22.08:595][  3]LogD3D11RHI: Shutdown
+[2019.12.19-05.22.08:596][  3]LogD3D11RHI: CleanupD3DDevice
+[2019.12.19-05.22.08:598][  3]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.19-05.22.08:599][  3]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.19-05.22.08:599][  3]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.19-05.22.08:751][  3]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.19-05.22.08:758][  3]LogExit: Exiting.
+[2019.12.19-05.22.08:786][  3]Log file closed, 12/18/19 21:22:08
